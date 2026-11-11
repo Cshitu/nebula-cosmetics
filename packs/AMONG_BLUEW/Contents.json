@@ -1,0 +1,15 @@
+{
+	"Plate" : {
+		"Hash" : "d0e987cdbf3dc6d3ed82c414057f4135",
+		"Address" : "AMONG_BLUEW_HaiXvizH_Plate.png",
+		"ExIsFront" : False,
+		"AnimSync" : 0
+	},
+	"AdaptiveInFront" : True,
+	"Name" : "AMONG_BLUEW",
+	"Author" : "氵",
+	"Package" : "keymeme",
+	"IsUnlockable" : False,
+	"FPS" : 1,
+	"IsLocalizable" : True
+}

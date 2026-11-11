@@ -1,0 +1,32 @@
+{
+	"Back" : {
+		"Hash" : "2ffdbbffbd2a9c3c071f8bc5d1a567ac",
+		"Address" : "十字神明_smow8sM_Back.png",
+		"ExIsFront" : False,
+		"AnimSync" : 0
+	},
+	"Climb" : {
+		"Hash" : "e73035548ccd39537e14c3f92d403c55",
+		"Address" : "十字神明_smow8sM_Climb.png",
+		"ExIsFront" : False,
+		"AnimSync" : 0
+	},
+	"Preview" : {
+		"Hash" : "dab2f9866b203f51a736e4edea9791f7",
+		"Address" : "十字神明_smow8sM_Preview.png",
+		"ExIsFront" : False,
+		"AnimSync" : 0
+	},
+	"Bounce" : True,
+	"Adaptive" : False,
+	"HideHands" : False,
+	"IsSkinny" : False,
+	"SeekerCostume" : True,
+	"LongNeckCostume" : True,
+	"Name" : "十字神明",
+	"Author" : "氵",
+	"Package" : "None",
+	"IsUnlockable" : False,
+	"FPS" : 1,
+	"IsLocalizable" : True
+}

@@ -1,0 +1,30 @@
+{
+	"Main" : {
+		"Hash" : "21a4f87384c3a56d6d041c835b253931",
+		"Address" : "马尔库特_0TIBB8ib_Main.png",
+		"ExIsFront" : False,
+		"AnimSync" : 0
+	},
+	"Back" : {
+		"Hash" : "77f339561c1fef5c1ac841639b804bc3",
+		"Address" : "马尔库特_0TIBB8ib_Back.png",
+		"ExIsFront" : False,
+		"AnimSync" : 0
+	},
+	"Climb" : {
+		"Hash" : "3932ca62c8231de399f54a87609549e4",
+		"Address" : "马尔库特_0TIBB8ib_Climb.png",
+		"ExIsFront" : False,
+		"AnimSync" : 0
+	},
+	"Adaptive" : False,
+	"BehindHat" : True,
+	"BackmostBack" : False,
+	"Fixed" : False,
+	"Name" : "马尔库特",
+	"Author" : "氵",
+	"Package" : "half sugar's closet",
+	"IsUnlockable" : False,
+	"FPS" : 1,
+	"IsLocalizable" : True
+}
